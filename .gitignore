@@ -1,1 +1,23 @@
+# Python
+__pycache__/
+*.pyc
 
+# environments
+venv/
+env/
+
+# checkpoints
+checkpoints/
+*.pth
+*.ckpt
+
+# logs
+logs/
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# system
+.DS_Store
