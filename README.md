@@ -1,10 +1,12 @@
 # spacecraft-pose-estimation
-Deep learning-based spacecraft pose estimation using a modified ResNet-50 architecture with multi-stage supervision and a weighted Euclidean loss function.
+Modified ResNet-50 spacecraft pose estimation framework with multi-stage supervision and weighted Euclidean loss for RGB-based 6DoF pose regression.
+Before uploading, I would recommend sharing your actual project folder (or a zip of the code). Then I can tell you exactly which files to commit, which files to remove, generate a professional README.md, requirements.txt, and .gitignore, and prepare the repo in GitHub-ready form. 
 # Spacecraft Pose Estimation Using Deep Learning
 
 Implementation of spacecraft pose estimation using
 a modified ResNet-50 architecture with a weighted
 multi-stage Euclidean loss function.
+Deep learning-based spacecraft pose estimation using a modified ResNet-50 architecture with multi-stage supervision and a weighted Euclidean loss function. 
 
 ## Features
 
