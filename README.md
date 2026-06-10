@@ -40,9 +40,7 @@ Location Error: 2.1 m
 Orientation Error: 7.4 deg
 
 ## References
-
-UrsoNet:
-https://github.com/pedropro/UrsoNet
-
+This work builds upon the UrsoNet framework proposed by Pedro F. Proença and Yang Gao and extends it through a multi-stage supervision strategy and a customized weighted Euclidean loss formulation for improved spacecraft pose estimation.
+UrsoNet repository: https://github.com/pedropro/UrsoNet
 Related work:
 Pedro F. Proença and Yang Gao (ICRA 2020)
